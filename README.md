@@ -8,7 +8,7 @@
 
 Windows 64비트용 설치 파일을 제공합니다.
 
-![쓰담 앱 화면 — 왼쪽은 내 글 목록, 가운데는 원고 편집기, 오른쪽은 AI 도구](assets/writing-room.png)
+![쓰담 앱 화면 — 왼쪽은 내 글 목록, 가운데는 원고 편집기, 오른쪽은 AI 도구](assets/writing-room.png?v=b52e709639ba)
 
 ## 주요 기능
 
