@@ -2,9 +2,9 @@
 
 초안부터 윤문과 이미지까지, 내 PC의 글쓰기 공간.
 
-쓰담은 글을 쓰고 다듬는 일을 한곳에 모은 Windows 앱입니다. 직접 글을 쓰거나, 연결한 AI와 함께 초안을 만들고 문장을 다듬을 수 있습니다.
+쓰담은 글을 쓰고 다듬는 일을 한곳에 모은 Windows 앱입니다. 직접 글을 쓰거나 연결한 AI와 함께 초안을 만들고 문장을 다듬을 수 있습니다.
 
-**[Windows용 다운로드](https://github.com/afwaaak/ssudam-releases/releases/latest)** · [버전별 변경 사항](https://github.com/afwaaak/ssudam-releases/releases)
+[Windows용 다운로드](https://github.com/afwaaak/ssudam-releases/releases/latest) · [버전별 변경 사항](https://github.com/afwaaak/ssudam-releases/releases)
 
 Windows 64비트용 설치 파일을 제공합니다.
 
@@ -12,17 +12,23 @@ Windows 64비트용 설치 파일을 제공합니다.
 
 ## 주요 기능
 
-- **초안 작성** — 주제와 글의 말투에 맞춰 제목부터 본문까지 준비합니다.
-- **문장 다듬기** — 글 전체나 선택한 부분을 윤문하고, 전후를 비교한 뒤 반영합니다.
-- **이미지 생성** — 문단에 어울리는 이미지를 미리 보고 원고에 넣습니다. 별도 앱 [ima2](https://github.com/lidge-ai/ima2-gen) 연결이 필요합니다.
-- **카드뉴스** — 글의 핵심을 카드로 구성하고 이미지나 ZIP 파일로 저장합니다.
-- **로컬 저장** — 원고 자동 저장, 수정 이력, Markdown 가져오기·내보내기를 지원합니다.
+- 초안 작성 — 주제와 글의 말투에 맞춰 제목부터 본문까지 준비합니다.
+
+- 문장 다듬기 — 글 전체나 선택한 부분을 윤문하고 전후를 비교한 뒤 반영합니다.
+
+- 이미지 생성 — 문단에 어울리는 이미지를 미리 보고 원고에 넣습니다. 별도 앱 [ima2](https://github.com/lidge-ai/ima2-gen) 연결이 필요합니다.
+
+- 카드뉴스 — 글의 핵심을 카드로 구성하고 이미지나 ZIP 파일로 저장합니다.
+
+- 로컬 저장 — 원고 자동 저장, 수정 이력, Markdown 가져오기·내보내기를 지원합니다.
 
 ## 시작하기
 
 1. [최신 설치 파일](https://github.com/afwaaak/ssudam-releases/releases/latest)을 내려받아 설치합니다.
-2. AI를 사용하려면 **연결 및 설정**에서 사용할 서비스의 공식 도구를 설치하고 계정을 연결합니다.
-3. **새로운 글**을 열고 직접 쓰거나 AI와 초안을 시작합니다.
+
+2. AI를 사용하려면 연결 및 설정에서 사용할 서비스의 공식 도구를 설치하고 계정을 연결합니다.
+
+3. 새로운 글을 열고 직접 쓰거나 AI와 초안을 시작합니다.
 
 ChatGPT, Claude, Gemini · Antigravity, Grok 연결을 지원합니다. 사용 가능한 모델과 구독 조건, 사용 한도는 각 서비스와 계정에 따라 다릅니다.
 
@@ -30,7 +36,7 @@ ChatGPT, Claude, Gemini · Antigravity, Grok 연결을 지원합니다. 사용 �
 
 ## 업데이트
 
-설치형 앱은 새 버전을 자동으로 확인하고 내려받습니다. 글을 저장하고 앱을 정상 종료하면 업데이트를 적용합니다. 변경 사항은 앱의 **새 업데이트** 또는 [릴리즈 목록](https://github.com/afwaaak/ssudam-releases/releases)에서 확인할 수 있습니다.
+설치형 앱은 새 버전을 자동으로 확인하고 내려받습니다. 글을 저장하고 앱을 정상 종료하면 업데이트를 적용합니다. 변경 사항은 앱의 새 업데이트 또는 [릴리즈 목록](https://github.com/afwaaak/ssudam-releases/releases)에서 확인할 수 있습니다.
 
 ---
 
